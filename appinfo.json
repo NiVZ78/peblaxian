@@ -1,0 +1,42 @@
+{
+    "appKeys": {
+        "dummy": 0
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "NiVZ",
+    "enableMultiJS": false,
+    "longName": "Galaxian",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/Shot_Aplite.png",
+                "name": "SHOT",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/Ship_Aplite.png",
+                "name": "SHIP",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/rock.png",
+                "name": "ROCK",
+                "type": "bitmap"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Galaxian",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "e4ba6d01-740c-4c19-b8c2-70c595b7557b",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
